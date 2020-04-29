@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2,1\3,1\4,1\5
-REM DIRNAME cjc110,folder01,folder02,folder03,folder04
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2,1\3,1\4,1\5
+DIRNAME cjc110,folder01,folder02,folder03,folder04
 
+#
 01 linkage_001.mp3
 00:00:00 5:cjc110_0001
 00:00:68 0:
@@ -27,6 +28,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:35:74 0:
 00:36:42 4:cjc110_0012
 00:39:15 0:
+#
 02 linkage_002.mp3
 00:00:00 5:cjc110_0013
 00:00:62 0:
@@ -44,6 +46,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:28:19 0:
 00:28:62 4:cjc110_0020
 00:35:31 0:
+#
 03 linkage_003.mp3
 00:00:00 5:cjc110_0021
 00:00:60 0:
@@ -75,6 +78,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:43 0:
 00:46:09 4:cjc110_0035
 00:48:53 0:
+#
 04 linkage_004.mp3
 00:00:00 5:cjc110_0036
 00:00:74 0:
@@ -106,6 +110,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:48:06 0:
 00:48:48 4:cjc110_0050
 00:52:16 0:
+#
 05 linkage_005.mp3
 00:00:00 5:cjc110_0051
 00:00:74 0:
@@ -137,6 +142,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:49:41 0:
 00:50:05 4:cjc110_0065
 00:54:07 0:
+#
 06 linkage_006.mp3
 00:00:00 5:cjc110_0066
 00:01:03 0:
@@ -162,6 +168,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:36:09 0:
 00:36:54 4:cjc110_0077
 00:41:16 0:
+#
 07 linkage_007.mp3
 00:00:00 5:cjc110_0078
 00:00:66 0:
@@ -193,6 +200,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:48:61 0:
 00:49:33 4:cjc110_0092
 00:53:19 0:
+#
 08 linkage_008.mp3
 00:00:00 5:cjc110_0093
 00:00:70 0:
@@ -218,6 +226,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:43:29 0:
 00:44:01 4:cjc110_0104
 00:46:41 0:
+#
 09 linkage_009.mp3
 00:00:00 5:cjc110_0105
 00:01:15 0:
@@ -243,6 +252,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:43:40 0:
 00:44:11 4:cjc110_0116
 00:47:40 0:
+#
 10 linkage_010.mp3
 00:00:00 5:cjc110_0117
 00:01:17 0:
@@ -274,6 +284,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:50:17 0:
 00:50:62 4:cjc110_0131
 00:53:74 0:
+#
 100 linkage_100.mp3
 00:00:00 5:cjc110_0132
 00:01:34 0:
@@ -299,6 +310,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:37:44 0:
 00:38:16 4:cjc110_0143
 00:44:61 0:
+#
 11 linkage_011.mp3
 00:00:00 5:cjc110_0144
 00:01:19 0:
@@ -330,6 +342,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:51:40 0:
 00:52:10 4:cjc110_0158
 00:56:41 0:
+#
 12 linkage_012.mp3
 00:00:00 5:cjc110_0159
 00:01:13 0:
@@ -361,6 +374,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:49:47 0:
 00:50:17 4:cjc110_0173
 00:53:58 0:
+#
 13 linkage_013.mp3
 00:00:00 5:cjc110_0174
 00:01:03 0:
@@ -386,6 +400,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:37:36 0:
 00:38:06 4:cjc110_0185
 00:42:27 0:
+#
 14 linkage_014.mp3
 00:00:00 5:cjc110_0186
 00:01:22 0:
@@ -417,6 +432,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:55:46 0:
 00:56:18 4:cjc110_0200
 01:00:13 0:
+#
 15 linkage_015.mp3
 00:00:00 5:cjc110_0201
 00:01:26 0:
@@ -448,6 +464,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:54:50 0:
 00:55:18 4:cjc110_0215
 00:59:45 0:
+#
 16 linkage_016.mp3
 00:00:00 5:cjc110_0216
 00:01:19 0:
@@ -479,6 +496,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:49:55 0:
 00:50:23 4:cjc110_0230
 00:54:60 0:
+#
 17 linkage_017.mp3
 00:00:00 5:cjc110_0231
 00:01:24 0:
@@ -510,6 +528,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:56:59 0:
 00:57:29 4:cjc110_0245
 01:01:07 0:
+#
 18 linkage_018.mp3
 00:00:00 5:cjc110_0246
 00:01:19 0:
@@ -541,6 +560,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:48:10 0:
 00:48:55 4:cjc110_0260
 00:53:29 0:
+#
 19 linkage_019.mp3
 00:00:00 5:cjc110_0261
 00:01:19 0:
@@ -572,6 +592,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:51:40 0:
 00:52:10 4:cjc110_0275
 00:55:53 0:
+#
 20 linkage_020.mp3
 00:00:00 5:cjc110_0276
 00:01:13 0:
@@ -603,6 +624,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:57:03 0:
 00:57:50 4:cjc110_0290
 01:01:33 0:
+#
 21 linkage_021.mp3
 00:00:00 5:cjc110_0291
 00:01:19 0:
@@ -628,6 +650,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:33:24 0:
 00:33:68 4:cjc110_0302
 00:37:10 0:
+#
 22 linkage_022.mp3
 00:00:00 5:cjc110_0303
 00:01:19 0:
@@ -653,6 +676,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:36:54 0:
 00:37:26 4:cjc110_0314
 00:41:16 0:
+#
 23 linkage_023.mp3
 00:00:00 5:cjc110_0315
 00:01:13 0:
@@ -684,6 +708,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:52:14 0:
 00:52:59 4:cjc110_0329
 00:56:02 0:
+#
 24 linkage_024.mp3
 00:00:00 5:cjc110_0330
 00:01:17 0:
@@ -709,6 +734,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:46:07 0:
 00:46:56 4:cjc110_0341
 00:51:11 0:
+#
 25 linkage_025.mp3
 00:00:00 5:cjc110_0342
 00:00:66 0:
@@ -734,6 +760,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:37:14 0:
 00:37:59 4:cjc110_0353
 00:42:63 0:
+#
 26 linkage_026.mp3
 00:00:00 5:cjc110_0354
 00:01:17 0:
@@ -759,6 +786,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:42:65 0:
 00:43:39 4:cjc110_0365
 00:46:64 0:
+#
 27 linkage_027.mp3
 00:00:00 5:cjc110_0366
 00:01:13 0:
@@ -790,6 +818,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:47:62 0:
 00:48:30 4:cjc110_0380
 00:52:16 0:
+#
 28 linkage_028.mp3
 00:00:00 5:cjc110_0381
 00:01:17 0:
@@ -821,6 +850,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:54:25 0:
 00:54:72 4:cjc110_0395
 00:58:67 0:
+#
 29 linkage_029.mp3
 00:00:00 5:cjc110_0396
 00:01:19 0:
@@ -852,6 +882,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:53:55 0:
 00:54:30 4:cjc110_0410
 00:57:48 0:
+#
 30 linkage_030.mp3
 00:00:00 5:cjc110_0411
 00:01:11 0:
@@ -877,6 +908,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:42:57 0:
 00:43:25 4:cjc110_0422
 00:46:33 0:
+#
 31 linkage_031.mp3
 00:00:00 5:cjc110_0423
 00:01:28 0:
@@ -908,6 +940,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:53 0:
 00:46:23 4:cjc110_0437
 00:50:66 0:
+#
 32 linkage_032.mp3
 00:00:00 5:cjc110_0438
 00:01:13 0:
@@ -933,6 +966,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:33:52 0:
 00:34:22 4:cjc110_0449
 00:37:01 0:
+#
 33 linkage_033.mp3
 00:00:00 5:cjc110_0450
 00:01:22 0:
@@ -970,6 +1004,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:08:01 0:
 01:08:46 4:cjc110_0467
 01:11:74 0:
+#
 34 linkage_034.mp3
 00:00:00 5:cjc110_0468
 00:01:22 0:
@@ -995,6 +1030,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:28 0:
 00:46:00 4:cjc110_0479
 00:49:61 0:
+#
 35 linkage_035.mp3
 00:00:00 5:cjc110_0480
 00:01:26 0:
@@ -1026,6 +1062,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:46:64 0:
 00:47:36 4:cjc110_0494
 00:51:28 0:
+#
 36 linkage_036.mp3
 00:00:00 5:cjc110_0495
 00:01:17 0:
@@ -1051,6 +1088,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:39:37 0:
 00:40:07 4:cjc110_0506
 00:44:16 0:
+#
 37 linkage_037.mp3
 00:00:00 5:cjc110_0507
 00:01:22 0:
@@ -1076,6 +1114,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:35:63 0:
 00:36:36 4:cjc110_0518
 00:39:00 0:
+#
 38 linkage_038.mp3
 00:00:00 5:cjc110_0519
 00:00:74 0:
@@ -1101,6 +1140,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:40:52 0:
 00:41:26 4:cjc110_0530
 00:44:71 0:
+#
 39 linkage_039.mp3
 00:00:00 5:cjc110_0531
 00:01:19 0:
@@ -1126,6 +1166,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:39:45 0:
 00:40:13 4:cjc110_0542
 00:43:21 0:
+#
 40 linkage_040.mp3
 00:00:00 5:cjc110_0543
 00:01:24 0:
@@ -1163,6 +1204,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:03:02 0:
 01:03:49 4:cjc110_0560
 01:08:54 0:
+#
 41 linkage_041.mp3
 00:00:00 5:cjc110_0561
 00:01:26 0:
@@ -1194,6 +1236,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:46:72 0:
 00:47:42 4:cjc110_0575
 00:50:50 0:
+#
 42 linkage_042.mp3
 00:00:00 5:cjc110_0576
 00:01:36 0:
@@ -1235,6 +1278,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:04:11 0:
 01:04:54 4:cjc110_0595
 01:08:05 0:
+#
 43 linkage_043.mp3
 00:00:00 5:cjc110_0596
 00:01:05 0:
@@ -1266,6 +1310,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:73 0:
 00:46:47 4:cjc110_0610
 00:49:43 0:
+#
 44 linkage_044.mp3
 00:00:00 5:cjc110_0611
 00:01:32 0:
@@ -1297,6 +1342,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:57:09 0:
 00:57:52 4:cjc110_0625
 01:03:39 0:
+#
 45 linkage_045.mp3
 00:00:00 5:cjc110_0626
 00:01:28 0:
@@ -1334,6 +1380,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:14:21 0:
 01:14:68 4:cjc110_0643
 01:19:38 0:
+#
 46 linkage_046.mp3
 00:00:00 5:cjc110_0644
 00:01:38 0:
@@ -1365,6 +1412,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:56:12 0:
 00:56:57 4:cjc110_0658
 01:01:64 0:
+#
 47 linkage_047.mp3
 00:00:00 5:cjc110_0659
 00:01:28 0:
@@ -1396,6 +1444,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:44:58 0:
 00:45:28 4:cjc110_0673
 00:48:10 0:
+#
 48 linkage_048.mp3
 00:00:00 5:cjc110_0674
 00:01:07 0:
@@ -1427,6 +1476,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:53:29 0:
 00:54:01 4:cjc110_0688
 00:57:70 0:
+#
 49 linkage_049.mp3
 00:00:00 5:cjc110_0689
 00:01:11 0:
@@ -1458,6 +1508,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:52:63 0:
 00:53:37 4:cjc110_0703
 00:57:21 0:
+#
 50 linkage_050.mp3
 00:00:00 5:cjc110_0704
 00:01:15 0:
@@ -1489,6 +1540,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:04:70 0:
 01:05:42 4:cjc110_0718
 01:09:22 0:
+#
 51 linkage_051.mp3
 00:00:00 5:cjc110_0719
 00:01:11 0:
@@ -1520,6 +1572,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:51:73 0:
 00:52:45 4:cjc110_0733
 00:58:22 0:
+#
 52 linkage_052.mp3
 00:00:00 5:cjc110_0734
 00:01:07 0:
@@ -1545,6 +1598,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:42:49 0:
 00:43:19 4:cjc110_0745
 00:49:08 0:
+#
 53 linkage_053.mp3
 00:00:00 5:cjc110_0746
 00:00:62 0:
@@ -1570,6 +1624,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:37:71 0:
 00:38:37 4:cjc110_0757
 00:43:50 0:
+#
 54 linkage_054.mp3
 00:00:00 5:cjc110_0758
 00:01:13 0:
@@ -1595,6 +1650,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:42:33 0:
 00:42:74 4:cjc110_0769
 00:47:58 0:
+#
 55 linkage_055.mp3
 00:00:00 5:cjc110_0770
 00:01:09 0:
@@ -1620,6 +1676,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:38:61 0:
 00:39:29 4:cjc110_0781
 00:43:31 0:
+#
 56 linkage_056.mp3
 00:00:00 5:cjc110_0782
 00:01:07 0:
@@ -1657,6 +1714,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:06:28 0:
 01:07:04 4:cjc110_0799
 01:11:52 0:
+#
 57 linkage_057.mp3
 00:00:00 5:cjc110_0800
 00:01:22 0:
@@ -1682,6 +1740,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:41:69 0:
 00:42:39 4:cjc110_0811
 00:46:06 0:
+#
 58 linkage_058.mp3
 00:00:00 5:cjc110_0812
 00:01:15 0:
@@ -1719,6 +1778,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:56:51 0:
 00:57:25 4:cjc110_0829
 01:05:30 0:
+#
 59 linkage_059.mp3
 00:00:00 5:cjc110_0830
 00:01:05 0:
@@ -1750,6 +1810,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:52:65 0:
 00:53:37 4:cjc110_0844
 00:59:61 0:
+#
 60 linkage_060.mp3
 00:00:00 5:cjc110_0845
 00:01:15 0:
@@ -1775,6 +1836,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:42:41 0:
 00:43:11 4:cjc110_0856
 00:48:53 0:
+#
 61 linkage_061.mp3
 00:00:00 5:cjc110_0857
 00:01:19 0:
@@ -1806,6 +1868,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:12 0:
 00:45:57 4:cjc110_0871
 00:48:67 0:
+#
 62 linkage_062.mp3
 00:00:00 5:cjc110_0872
 00:01:26 0:
@@ -1837,6 +1900,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:51:42 0:
 00:52:14 4:cjc110_0886
 00:58:11 0:
+#
 63 linkage_063.mp3
 00:00:00 5:cjc110_0887
 00:01:22 0:
@@ -1868,6 +1932,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:51:71 0:
 00:52:41 4:cjc110_0901
 00:57:56 0:
+#
 64 linkage_064.mp3
 00:00:00 5:cjc110_0902
 00:01:17 0:
@@ -1893,6 +1958,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:37:44 0:
 00:38:14 4:cjc110_0913
 00:43:60 0:
+#
 65 linkage_065.mp3
 00:00:00 5:cjc110_0914
 00:01:13 0:
@@ -1930,6 +1996,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:08:44 0:
 01:09:14 4:cjc110_0931
 01:12:46 0:
+#
 66 linkage_066.mp3
 00:00:00 5:cjc110_0932
 00:01:34 0:
@@ -1961,6 +2028,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:05:24 0:
 01:05:66 4:cjc110_0946
 01:12:66 0:
+#
 67 linkage_067.mp3
 00:00:00 5:cjc110_0947
 00:01:28 0:
@@ -2002,6 +2070,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:21:21 0:
 01:21:69 4:cjc110_0966
 01:26:32 0:
+#
 68 linkage_068.mp3
 00:00:00 5:cjc110_0967
 00:01:26 0:
@@ -2027,6 +2096,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:39:41 0:
 00:40:13 4:cjc110_0978
 00:44:50 0:
+#
 69 linkage_069.mp3
 00:00:00 5:cjc110_0979
 00:01:26 0:
@@ -2052,6 +2122,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:50:70 0:
 00:51:46 4:cjc110_0990
 00:55:61 0:
+#
 70 linkage_070.mp3
 00:00:00 5:cjc110_0991
 00:01:07 0:
@@ -2083,6 +2154,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:55:03 0:
 00:55:46 4:cjc110_1005
 00:59:41 0:
+#
 71 linkage_071.mp3
 00:00:00 5:cjc110_1006
 00:01:34 0:
@@ -2108,6 +2180,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:37:18 0:
 00:37:61 4:cjc110_1017
 00:42:63 0:
+#
 72 linkage_072.mp3
 00:00:00 5:cjc110_1018
 00:01:26 0:
@@ -2133,6 +2206,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:48:36 0:
 00:49:02 4:cjc110_1029
 00:53:70 0:
+#
 73 linkage_073.mp3
 00:00:00 5:cjc110_1030
 00:01:28 0:
@@ -2158,6 +2232,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:47:32 0:
 00:48:00 4:cjc110_1041
 00:51:50 0:
+#
 74 linkage_074.mp3
 00:00:00 5:cjc110_1042
 00:01:42 0:
@@ -2189,6 +2264,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:52:12 0:
 00:52:57 4:cjc110_1056
 00:56:16 0:
+#
 75 linkage_075.mp3
 00:00:00 5:cjc110_1057
 00:01:32 0:
@@ -2214,6 +2290,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:41 0:
 00:46:11 4:cjc110_1068
 00:50:58 0:
+#
 76 linkage_076.mp3
 00:00:00 5:cjc110_1069
 00:01:21 0:
@@ -2239,6 +2316,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:49:06 0:
 00:49:51 4:cjc110_1080
 00:57:03 0:
+#
 77 linkage_077.mp3
 00:00:00 5:cjc110_1081
 00:01:32 0:
@@ -2274,6 +2352,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:08:52 0:
 01:09:26 4:cjc110_1097
 01:17:06 0:
+#
 78 linkage_078.mp3
 00:00:00 5:cjc110_1098
 00:01:26 0:
@@ -2305,6 +2384,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:01:38 0:
 01:02:08 4:cjc110_1112
 01:04:74 0:
+#
 79 linkage_079.mp3
 00:00:00 5:cjc110_1113
 00:01:38 0:
@@ -2336,6 +2416,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:58:40 0:
 00:59:06 4:cjc110_1127
 01:04:52 0:
+#
 80 linkage_080.mp3
 00:00:00 5:cjc110_1128
 00:01:38 0:
@@ -2367,6 +2448,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:52:41 0:
 00:53:15 4:cjc110_1142
 00:56:10 0:
+#
 81 linkage_081.mp3
 00:00:00 5:cjc110_1143
 00:01:36 0:
@@ -2398,6 +2480,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:53:70 0:
 00:54:40 4:cjc110_1157
 00:59:45 0:
+#
 82 linkage_082.mp3
 00:00:00 5:cjc110_1158
 00:01:32 0:
@@ -2429,6 +2512,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:49:29 0:
 00:49:72 4:cjc110_1172
 00:54:19 0:
+#
 83 linkage_083.mp3
 00:00:00 5:cjc110_1173
 00:01:32 0:
@@ -2460,6 +2544,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:04:07 0:
 01:04:52 4:cjc110_1187
 01:07:68 0:
+#
 84 linkage_084.mp3
 00:00:00 5:cjc110_1188
 00:01:36 0:
@@ -2485,6 +2570,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:54:01 0:
 00:54:46 4:cjc110_1199
 00:58:13 0:
+#
 85 linkage_085.mp3
 00:00:00 5:cjc110_1200
 00:01:30 0:
@@ -2516,6 +2602,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:55:69 0:
 00:56:43 4:cjc110_1214
 01:00:13 0:
+#
 86 linkage_086.mp3
 00:00:00 5:cjc110_1215
 00:01:36 0:
@@ -2547,6 +2634,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:52:63 0:
 00:53:37 4:cjc110_1229
 01:01:62 0:
+#
 87 linkage_087.mp3
 00:00:00 5:cjc110_1230
 00:01:17 0:
@@ -2572,6 +2660,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:36:68 0:
 00:37:40 4:cjc110_1241
 00:41:61 0:
+#
 88 linkage_088.mp3
 00:00:00 5:cjc110_1242
 00:01:34 0:
@@ -2597,6 +2686,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:44:58 0:
 00:45:32 4:cjc110_1253
 00:50:39 0:
+#
 89 linkage_089.mp3
 00:00:00 5:cjc110_1254
 00:01:17 0:
@@ -2622,6 +2712,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:40:60 0:
 00:41:30 4:cjc110_1265
 00:48:04 0:
+#
 90 linkage_090.mp3
 00:00:00 5:cjc110_1266
 00:01:32 0:
@@ -2647,6 +2738,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:43:29 0:
 00:44:05 4:cjc110_1277
 00:48:63 0:
+#
 91 linkage_091.mp3
 00:00:00 5:cjc110_1278
 00:01:36 0:
@@ -2672,6 +2764,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:34:55 0:
 00:35:25 4:cjc110_1289
 00:41:63 0:
+#
 92 linkage_092.mp3
 00:00:00 5:cjc110_1290
 00:01:36 0:
@@ -2697,6 +2790,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:36:07 0:
 00:36:54 4:cjc110_1301
 00:49:43 0:
+#
 93 linkage_093.mp3
 00:00:00 5:cjc110_1302
 00:01:36 0:
@@ -2728,6 +2822,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:45:69 0:
 00:46:41 4:cjc110_1316
 00:51:42 0:
+#
 94 linkage_094.mp3
 00:00:00 5:cjc110_1317
 00:01:34 0:
@@ -2771,6 +2866,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:12:50 0:
 01:13:20 4:cjc110_1337
 01:16:50 0:
+#
 95 linkage_095.mp3
 00:00:00 5:cjc110_1338
 00:01:15 0:
@@ -2808,6 +2904,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:08:66 0:
 01:09:40 4:cjc110_1355
 01:14:02 0:
+#
 96 linkage_096.mp3
 00:00:00 5:cjc110_1356
 00:01:36 0:
@@ -2845,6 +2942,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 01:10:41 0:
 01:11:09 4:cjc110_1373
 01:18:72 0:
+#
 97 linkage_097.mp3
 00:00:00 5:cjc110_1374
 00:01:38 0:
@@ -2876,6 +2974,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:50:27 0:
 00:50:72 4:cjc110_1388
 00:54:64 0:
+#
 98 linkage_098.mp3
 00:00:00 5:cjc110_1389
 00:01:26 0:
@@ -2901,6 +3000,7 @@ REM DIRNAME cjc110,folder01,folder02,folder03,folder04
 00:40:07 0:
 00:40:54 4:cjc110_1400
 00:45:02 0:
+#
 99 linkage_099.mp3
 00:00:00 5:cjc110_1401
 00:01:40 0:
